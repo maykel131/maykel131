@@ -18,9 +18,9 @@ Viciado em café ☕ e fã de soluções elegantes
 ---
 
 ## 📊 Estatísticas do GitHub
-![Maykel GitHub stats](https://github-readme-stats.vercel.app/api?username=maykeltrej&show_icons=true&theme=dracula)
+![Maykel GitHub stats](https://github-readme-stats.vercel.app/api?username=maykeltrejo&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykeltrej&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykeltrejo&layout=compact&theme=dracula)
 
 ---
 
