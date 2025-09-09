@@ -18,12 +18,11 @@ Viciado em café ☕ e fã de soluções elegantes
 ---
 
 ## 📊 Estatísticas do GitHub
-![Maykel GitHub stats](https://github-readme-stats.vercel.app/api?username=maykeltrejo&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykeltrejo&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maykel131&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykel131&layout=compact&theme=dracula)
 
 ---
 
 ## 🌎 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maykel-trejo-0314bb153/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trejomaykel@gmail.com)
