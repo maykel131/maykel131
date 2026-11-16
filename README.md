@@ -16,7 +16,7 @@ Experiência com sistemas distribuídos, processamento assíncrono, comunicaçã
 - 🏛️ Já liderei a equipe de TI da **ANOREG-CE**, onde desenvolvi a **CERICE**, a Central Eletrônica de Registros Imobiliários do Ceará
 - 📚 Estudando mais **Cloud** ☁️, **Django** 🐍 e **Cybersecurity** 🔒
 - 🌎 Falo espanhol (nativo), português (fluente) e inglês (B1)
-- ☕ Viciado em cerveja e fã de soluções elegantes
+- ☕ Viciado em cafe e fã de soluções elegantes
 
 ---
 
